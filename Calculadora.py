@@ -1,6 +1,6 @@
 que_quieres_hacer = input("¿Que quieres hacer? (multiplicar/ dividir/ sumar/ restar): ")
-primer_numero = int(input("Dime un numero range(1, 1000): "))
-segundo_numero = int(input("Dime otro numero range(1, 1000): "))
+primer_numero = int(input("Dime un numero (1, 1000): "))
+segundo_numero = int(input("Dime otro numero (1, 1000): "))
 resultado = 0
 
 if que_quieres_hacer == "multiplicar":
