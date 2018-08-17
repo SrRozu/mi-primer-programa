@@ -11,7 +11,6 @@ espacio = " "
 punto = "."
 coma = ","
 
-
 n_espacios = 0
 n_puntos = 0
 n_comas = 0
