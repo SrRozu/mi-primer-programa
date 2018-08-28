@@ -4,6 +4,7 @@ CREA UN PROGRAMA QUE CALCULE LA MEDIA DE LOS ELEMENTOS DE LA LISTA DE NUMEROS IN
 
 """
 
+
 numeros_usuario = []
 
 entrada_usuario = ""
